@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Center Icon Group inside safe 66dp area -->
+    <!-- Invoice Sheet background card -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M38,32h28c2.2,0 4,1.8 4,4v38c0,2.2 -1.8,4 -4,4H38c-2.2,0 -4,-1.8 -4,-4V36c0,-2.2 1.8,-4 4,-4z" />
+
+    <!-- Invoice Header banner -->
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M34,36c0,-2.2 1.8,-4 4,-4h28c2.2,0 4,1.8 4,4v7H34V36z" />
+
+    <!-- Invoice Lines -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M40,49h18v3H40zM40,55h24v3H40zM40,61h14v3H40z" />
+
+    <!-- Stopwatch ring & button overlaid on lower right -->
+    <path
+        android:fillColor="#0F172A"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="3.5"
+        android:pathData="M66,66m-15,0a15,15 0,1 1,30 0a15,15 0,1 1,-30 0" />
+
+    <!-- Stopwatch Top Pin -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M64,48h4v4h-4z" />
+
+    <!-- Stopwatch Hands pointing to 2 o'clock -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M66,66L66,57M66,66L73,61" />
+
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M66,66m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+
+    <!-- Flow dynamic swoosh dot in electric cyan -->
+    <path
+        android:fillColor="#00F0FF"
+        android:pathData="M37,70m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0" />
+</vector>
